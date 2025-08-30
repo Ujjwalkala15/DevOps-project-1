@@ -9,7 +9,7 @@ from datetime import datetime
 
 # emailing user updates for archive
 '''def send_email_notification(recipient_email, archive_path):
-    yag = yagmail.SMTP("menegajemmau-3598@yopmail.com")
+    yag = yagmail.SMTP("enter your email", "enter your password")
     subject = "Archive Update Notification"
     body = f"The latest archive has been created and is available at: {archive_path}"
     yag.send(to=recipient_email, subject=subject, contents=body)'''
