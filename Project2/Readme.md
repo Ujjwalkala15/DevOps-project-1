@@ -1,6 +1,6 @@
 ---
 
-## 📦 Log Archive Automation Tool
+## 📦 Log Archive Automation Tool 
 
 A Python-based utility that compresses log files from a specified directory, timestamps the archive, and optionally sends email notifications or uploads the archive to a remote server or cloud storage.
 
